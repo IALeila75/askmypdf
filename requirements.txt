@@ -1,0 +1,12 @@
+# Backend
+fastapi
+uvicorn
+faiss-cpu
+pypdf
+transformers
+sentence-transformers
+
+# Frontend
+streamlit
+requests
+python-dotenv

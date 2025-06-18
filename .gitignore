@@ -1,0 +1,42 @@
+#  Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+#  Environnement virtuel
+venv/
+env/
+.venv/
+
+#  Fichiers secrets
+.env
+.env.*
+
+#  Logs & DB
+*.log
+*.sqlite3
+*.db
+vector_db/
+__pycache__/
+*.pyc
+*.log
+test_openai.py
+
+#  Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+#  Systèmes d’exploitation
+.DS_Store
+Thumbs.db
+
+# ️ IDEs et éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Déploiements
+build/
+dist/
+*.egg-info/
