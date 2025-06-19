@@ -7,3 +7,4 @@ chromadb
 openai
 tiktoken
 sentence-transformers
+faiss-cpu
